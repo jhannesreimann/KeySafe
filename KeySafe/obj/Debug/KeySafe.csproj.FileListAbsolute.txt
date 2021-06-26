@@ -1,0 +1,46 @@
+D:\Documents\KeySafe\KeySafe\KeySafe\bin\Debug\KeySafe.exe.config
+D:\Documents\KeySafe\KeySafe\KeySafe\bin\Debug\KeySafe.exe
+D:\Documents\KeySafe\KeySafe\KeySafe\bin\Debug\KeySafe.pdb
+D:\Documents\KeySafe\KeySafe\KeySafe\obj\Debug\KeySafe.Properties.Resources.resources
+D:\Documents\KeySafe\KeySafe\KeySafe\obj\Debug\KeySafe.csproj.GenerateResource.cache
+D:\Documents\KeySafe\KeySafe\KeySafe\obj\Debug\KeySafe.csproj.CoreCompileInputs.cache
+D:\Documents\KeySafe\KeySafe\KeySafe\obj\Debug\KeySafe.exe
+D:\Documents\KeySafe\KeySafe\KeySafe\obj\Debug\KeySafe.pdb
+D:\Documents\KeySafe\KeySafe\KeySafe\obj\Debug\KeySafe.csproj.CopyComplete
+D:\Documents\KeySafe\KeySafe\KeySafe\obj\Debug\KeySafe.ConnectUSB.resources
+D:\Documents\KeySafe\KeySafe\KeySafe\obj\Debug\KeySafe.KeySafe.resources
+D:\Documents\KeySafe\KeySafe\KeySafe\obj\Debug\KeySafe.Masterkey.resources
+D:\Documents\KeySafe\KeySafe\KeySafe\obj\Debug\KeySafe.PasswordItem.resources
+D:\Documents\KeySafe\KeySafe\KeySafe\obj\Debug\KeySafe.SaveKey.resources
+D:\Documents\KeySafe\KeySafe\KeySafe\bin\Debug\Newtonsoft.Json.dll
+D:\Documents\KeySafe\KeySafe\KeySafe\bin\Debug\Newtonsoft.Json.pdb
+D:\Documents\KeySafe\KeySafe\KeySafe\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Wolfgang\Documents\KeySafe\Project - History\Final - KeySafe\KeySafe\KeySafe\bin\Debug\KeySafe.exe.config
+C:\Users\Wolfgang\Documents\KeySafe\Project - History\Final - KeySafe\KeySafe\KeySafe\bin\Debug\KeySafe.exe
+C:\Users\Wolfgang\Documents\KeySafe\Project - History\Final - KeySafe\KeySafe\KeySafe\bin\Debug\KeySafe.pdb
+C:\Users\Wolfgang\Documents\KeySafe\Project - History\Final - KeySafe\KeySafe\KeySafe\bin\Debug\Newtonsoft.Json.pdb
+C:\Users\Wolfgang\Documents\KeySafe\Project - History\Final - KeySafe\KeySafe\KeySafe\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Wolfgang\Documents\KeySafe\Project - History\Final - KeySafe\KeySafe\KeySafe\obj\Debug\KeySafe.csprojAssemblyReference.cache
+C:\Users\Wolfgang\Documents\KeySafe\Project - History\Final - KeySafe\KeySafe\KeySafe\obj\Debug\KeySafe.ConnectUSB.resources
+C:\Users\Wolfgang\Documents\KeySafe\Project - History\Final - KeySafe\KeySafe\KeySafe\obj\Debug\KeySafe.SaveKey.resources
+C:\Users\Wolfgang\Documents\KeySafe\Project - History\Final - KeySafe\KeySafe\KeySafe\obj\Debug\KeySafe.PasswordItem.resources
+C:\Users\Wolfgang\Documents\KeySafe\Project - History\Final - KeySafe\KeySafe\KeySafe\obj\Debug\KeySafe.KeySafe.resources
+C:\Users\Wolfgang\Documents\KeySafe\Project - History\Final - KeySafe\KeySafe\KeySafe\obj\Debug\KeySafe.Masterkey.resources
+C:\Users\Wolfgang\Documents\KeySafe\Project - History\Final - KeySafe\KeySafe\KeySafe\obj\Debug\KeySafe.Properties.Resources.resources
+C:\Users\Wolfgang\Documents\KeySafe\Project - History\Final - KeySafe\KeySafe\KeySafe\obj\Debug\KeySafe.csproj.GenerateResource.cache
+C:\Users\Wolfgang\Documents\KeySafe\Project - History\Final - KeySafe\KeySafe\KeySafe\obj\Debug\KeySafe.csproj.CoreCompileInputs.cache
+C:\Users\Wolfgang\Documents\KeySafe\Project - History\Final - KeySafe\KeySafe\KeySafe\obj\Debug\KeySafe.csproj.CopyComplete
+C:\Users\Wolfgang\Documents\KeySafe\Project - History\Final - KeySafe\KeySafe\KeySafe\obj\Debug\KeySafe.exe
+C:\Users\Wolfgang\Documents\KeySafe\Project - History\Final - KeySafe\KeySafe\KeySafe\obj\Debug\KeySafe.pdb
+D:\Documents\KeySafe\KeySafe\KeySafe\bin\Debug\en\KeySafe.resources.dll
+D:\Documents\KeySafe\KeySafe\KeySafe\obj\Debug\KeySafe.KeySafe.en.resources
+D:\Documents\KeySafe\KeySafe\KeySafe\obj\Debug\en\KeySafe.resources.dll
+D:\Documents\KeySafe\KeySafe\KeySafe\bin\Debug\de-DE\KeySafe.resources.dll
+D:\Documents\KeySafe\KeySafe\KeySafe\obj\Debug\KeySafe.KeySafe.de-DE.resources
+D:\Documents\KeySafe\KeySafe\KeySafe\obj\Debug\de-DE\KeySafe.resources.dll
+C:\Users\Wolfgang\Documents\KeySafe\Project - History\Final - KeySafe\KeySafe\KeySafe\bin\Debug\de-DE\KeySafe.resources.dll
+C:\Users\Wolfgang\Documents\KeySafe\Project - History\Final - KeySafe\KeySafe\KeySafe\bin\Debug\en\KeySafe.resources.dll
+C:\Users\Wolfgang\Documents\KeySafe\Project - History\Final - KeySafe\KeySafe\KeySafe\obj\Debug\KeySafe.KeySafe.de-DE.resources
+C:\Users\Wolfgang\Documents\KeySafe\Project - History\Final - KeySafe\KeySafe\KeySafe\obj\Debug\KeySafe.KeySafe.en.resources
+C:\Users\Wolfgang\Documents\KeySafe\Project - History\Final - KeySafe\KeySafe\KeySafe\obj\Debug\de-DE\KeySafe.resources.dll
+C:\Users\Wolfgang\Documents\KeySafe\Project - History\Final - KeySafe\KeySafe\KeySafe\obj\Debug\en\KeySafe.resources.dll

@@ -1,0 +1,51 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<configuration>
+    <configSections>
+        <sectionGroup name="userSettings" type="System.Configuration.UserSettingsGroup, System, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" >
+            <section name="KeySafe.Properties.Settings" type="System.Configuration.ClientSettingsSection, System, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" allowExeDefinition="MachineToLocalUser" requirePermission="false" />
+        </sectionGroup>
+    </configSections>
+    <startup> 
+        <supportedRuntime version="v4.0" sku=".NETFramework,Version=v4.7.2" />
+    </startup>
+    <userSettings>
+        <KeySafe.Properties.Settings>
+            <setting name="selection" serializeAs="String">
+                <value>a</value>
+            </setting>
+            <setting name="USBClose" serializeAs="String">
+                <value>True</value>
+            </setting>
+            <setting name="ShowIndex" serializeAs="String">
+                <value>False</value>
+            </setting>
+            <setting name="key" serializeAs="String">
+                <value />
+            </setting>
+            <setting name="color" serializeAs="String">
+                <value>57, 77, 123</value>
+            </setting>
+            <setting name="colorDark" serializeAs="String">
+                <value>41, 55, 103</value>
+            </setting>
+            <setting name="colorLight" serializeAs="String">
+                <value>110, 152, 191</value>
+            </setting>
+            <setting name="resetColor" serializeAs="String">
+                <value>False</value>
+            </setting>
+            <setting name="RainbowColor" serializeAs="String">
+                <value>False</value>
+            </setting>
+            <setting name="opacity" serializeAs="String">
+                <value>1</value>
+            </setting>
+            <setting name="englishB" serializeAs="String">
+                <value>True</value>
+            </setting>
+            <setting name="DarkMode" serializeAs="String">
+                <value>False</value>
+            </setting>
+        </KeySafe.Properties.Settings>
+    </userSettings>
+</configuration>

@@ -1,0 +1,351 @@
+D:\Documents\KeySafe\KeySafe\KeySafe\obj\Release\KeySafe.ConnectUSB.resources
+D:\Documents\KeySafe\KeySafe\KeySafe\obj\Release\KeySafe.SaveKey.resources
+D:\Documents\KeySafe\KeySafe\KeySafe\obj\Release\KeySafe.PasswordItem.resources
+D:\Documents\KeySafe\KeySafe\KeySafe\obj\Release\KeySafe.KeySafe.resources
+D:\Documents\KeySafe\KeySafe\KeySafe\obj\Release\KeySafe.Masterkey.resources
+D:\Documents\KeySafe\KeySafe\KeySafe\obj\Release\KeySafe.Properties.Resources.resources
+D:\Documents\KeySafe\KeySafe\KeySafe\obj\Release\KeySafe.KeySafe.de-DE.resources
+D:\Documents\KeySafe\KeySafe\KeySafe\obj\Release\KeySafe.KeySafe.en.resources
+D:\Documents\KeySafe\KeySafe\KeySafe\obj\Release\KeySafe.csproj.GenerateResource.cache
+D:\Documents\KeySafe\KeySafe\KeySafe\obj\Release\KeySafe.csproj.CoreCompileInputs.cache
+D:\Documents\KeySafe\KeySafe\KeySafe\obj\Release\de-DE\KeySafe.resources.dll
+D:\Documents\KeySafe\KeySafe\KeySafe\obj\Release\en\KeySafe.resources.dll
+D:\Documents\KeySafe\KeySafe\KeySafe\obj\Release\KeySafe.exe
+D:\Documents\KeySafe\KeySafe\KeySafe\obj\Release\KeySafe.pdb
+D:\Documents\KeySafe\KeySafe\KeySafe\bin\Release\KeySafe.exe.config
+D:\Documents\KeySafe\KeySafe\KeySafe\bin\Release\KeySafe.exe
+D:\Documents\KeySafe\KeySafe\KeySafe\bin\Release\KeySafe.pdb
+D:\Documents\KeySafe\KeySafe\KeySafe\bin\Release\de-DE\KeySafe.resources.dll
+D:\Documents\KeySafe\KeySafe\KeySafe\bin\Release\en\KeySafe.resources.dll
+D:\Documents\KeySafe\KeySafe\KeySafe\bin\Release\Bunifu_UI_v1.5.3.dll
+D:\Documents\KeySafe\KeySafe\KeySafe\bin\Release\Newtonsoft.Json.dll
+D:\Documents\KeySafe\KeySafe\KeySafe\bin\Release\Newtonsoft.Json.pdb
+D:\Documents\KeySafe\KeySafe\KeySafe\bin\Release\Newtonsoft.Json.xml
+D:\Documents\KeySafe\KeySafe\KeySafe\obj\Release\KeySafe.csproj.CopyComplete
+D:\Documents\KeySafe\KeySafe\KeySafe\bin\Release\AutoUpdater.NET.dll
+D:\Documents\KeySafe\KeySafe\KeySafe\bin\Release\AutoUpdater.NET.pdb
+D:\Documents\KeySafe\KeySafe\KeySafe\bin\Release\AutoUpdater.NET.xml
+D:\Documents\KeySafe\KeySafe\KeySafe\bin\Release\Matrixsoft.PwnedPasswords.dll
+D:\Documents\KeySafe\KeySafe\KeySafe\bin\Release\Microsoft.AspNetCore.Authentication.Abstractions.dll
+D:\Documents\KeySafe\KeySafe\KeySafe\bin\Release\Microsoft.AspNetCore.Authentication.Cookies.dll
+D:\Documents\KeySafe\KeySafe\KeySafe\bin\Release\Microsoft.AspNetCore.Authentication.Core.dll
+D:\Documents\KeySafe\KeySafe\KeySafe\bin\Release\Microsoft.AspNetCore.Authentication.dll
+D:\Documents\KeySafe\KeySafe\KeySafe\bin\Release\Microsoft.AspNetCore.Cryptography.Internal.dll
+D:\Documents\KeySafe\KeySafe\KeySafe\bin\Release\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+D:\Documents\KeySafe\KeySafe\KeySafe\bin\Release\Microsoft.AspNetCore.DataProtection.Abstractions.dll
+D:\Documents\KeySafe\KeySafe\KeySafe\bin\Release\Microsoft.AspNetCore.DataProtection.dll
+D:\Documents\KeySafe\KeySafe\KeySafe\bin\Release\Microsoft.AspNetCore.Hosting.Abstractions.dll
+D:\Documents\KeySafe\KeySafe\KeySafe\bin\Release\Microsoft.AspNetCore.Hosting.Server.Abstractions.dll
+D:\Documents\KeySafe\KeySafe\KeySafe\bin\Release\Microsoft.AspNetCore.Http.Abstractions.dll
+D:\Documents\KeySafe\KeySafe\KeySafe\bin\Release\Microsoft.AspNetCore.Http.dll
+D:\Documents\KeySafe\KeySafe\KeySafe\bin\Release\Microsoft.AspNetCore.Http.Extensions.dll
+D:\Documents\KeySafe\KeySafe\KeySafe\bin\Release\Microsoft.AspNetCore.Http.Features.dll
+D:\Documents\KeySafe\KeySafe\KeySafe\bin\Release\Microsoft.AspNetCore.Identity.dll
+D:\Documents\KeySafe\KeySafe\KeySafe\bin\Release\Microsoft.AspNetCore.WebUtilities.dll
+D:\Documents\KeySafe\KeySafe\KeySafe\bin\Release\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\Documents\KeySafe\KeySafe\KeySafe\bin\Release\Microsoft.Extensions.Configuration.Binder.dll
+D:\Documents\KeySafe\KeySafe\KeySafe\bin\Release\Microsoft.Extensions.Configuration.dll
+D:\Documents\KeySafe\KeySafe\KeySafe\bin\Release\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\Documents\KeySafe\KeySafe\KeySafe\bin\Release\Microsoft.Extensions.FileProviders.Abstractions.dll
+D:\Documents\KeySafe\KeySafe\KeySafe\bin\Release\Microsoft.Extensions.Hosting.Abstractions.dll
+D:\Documents\KeySafe\KeySafe\KeySafe\bin\Release\Microsoft.Extensions.Identity.Core.dll
+D:\Documents\KeySafe\KeySafe\KeySafe\bin\Release\Microsoft.Extensions.Logging.Abstractions.dll
+D:\Documents\KeySafe\KeySafe\KeySafe\bin\Release\Microsoft.Extensions.Logging.dll
+D:\Documents\KeySafe\KeySafe\KeySafe\bin\Release\Microsoft.Extensions.ObjectPool.dll
+D:\Documents\KeySafe\KeySafe\KeySafe\bin\Release\Microsoft.Extensions.Options.dll
+D:\Documents\KeySafe\KeySafe\KeySafe\bin\Release\Microsoft.Extensions.Primitives.dll
+D:\Documents\KeySafe\KeySafe\KeySafe\bin\Release\Microsoft.Extensions.WebEncoders.dll
+D:\Documents\KeySafe\KeySafe\KeySafe\bin\Release\Microsoft.Net.Http.Headers.dll
+D:\Documents\KeySafe\KeySafe\KeySafe\bin\Release\Microsoft.Win32.Registry.dll
+D:\Documents\KeySafe\KeySafe\KeySafe\bin\Release\System.Buffers.dll
+D:\Documents\KeySafe\KeySafe\KeySafe\bin\Release\System.ComponentModel.Annotations.dll
+D:\Documents\KeySafe\KeySafe\KeySafe\bin\Release\System.Memory.dll
+D:\Documents\KeySafe\KeySafe\KeySafe\bin\Release\System.Numerics.Vectors.dll
+D:\Documents\KeySafe\KeySafe\KeySafe\bin\Release\System.Runtime.CompilerServices.Unsafe.dll
+D:\Documents\KeySafe\KeySafe\KeySafe\bin\Release\System.Security.AccessControl.dll
+D:\Documents\KeySafe\KeySafe\KeySafe\bin\Release\System.Security.Cryptography.Xml.dll
+D:\Documents\KeySafe\KeySafe\KeySafe\bin\Release\System.Security.Permissions.dll
+D:\Documents\KeySafe\KeySafe\KeySafe\bin\Release\System.Security.Principal.Windows.dll
+D:\Documents\KeySafe\KeySafe\KeySafe\bin\Release\System.Text.Encodings.Web.dll
+D:\Documents\KeySafe\KeySafe\KeySafe\bin\Release\Microsoft.AspNetCore.Authentication.xml
+D:\Documents\KeySafe\KeySafe\KeySafe\bin\Release\Microsoft.AspNetCore.Authentication.Abstractions.xml
+D:\Documents\KeySafe\KeySafe\KeySafe\bin\Release\Microsoft.AspNetCore.Authentication.Cookies.xml
+D:\Documents\KeySafe\KeySafe\KeySafe\bin\Release\Microsoft.AspNetCore.Authentication.Core.xml
+D:\Documents\KeySafe\KeySafe\KeySafe\bin\Release\Microsoft.AspNetCore.Cryptography.Internal.xml
+D:\Documents\KeySafe\KeySafe\KeySafe\bin\Release\Microsoft.AspNetCore.Cryptography.KeyDerivation.xml
+D:\Documents\KeySafe\KeySafe\KeySafe\bin\Release\Microsoft.AspNetCore.DataProtection.xml
+D:\Documents\KeySafe\KeySafe\KeySafe\bin\Release\Microsoft.AspNetCore.DataProtection.Abstractions.xml
+D:\Documents\KeySafe\KeySafe\KeySafe\bin\Release\Microsoft.AspNetCore.Hosting.Abstractions.xml
+D:\Documents\KeySafe\KeySafe\KeySafe\bin\Release\Microsoft.AspNetCore.Hosting.Server.Abstractions.xml
+D:\Documents\KeySafe\KeySafe\KeySafe\bin\Release\Microsoft.AspNetCore.Http.xml
+D:\Documents\KeySafe\KeySafe\KeySafe\bin\Release\Microsoft.AspNetCore.Http.Abstractions.xml
+D:\Documents\KeySafe\KeySafe\KeySafe\bin\Release\Microsoft.AspNetCore.Http.Extensions.xml
+D:\Documents\KeySafe\KeySafe\KeySafe\bin\Release\Microsoft.AspNetCore.Http.Features.xml
+D:\Documents\KeySafe\KeySafe\KeySafe\bin\Release\Microsoft.AspNetCore.Identity.xml
+D:\Documents\KeySafe\KeySafe\KeySafe\bin\Release\Microsoft.AspNetCore.WebUtilities.xml
+D:\Documents\KeySafe\KeySafe\KeySafe\bin\Release\Microsoft.Extensions.Configuration.xml
+D:\Documents\KeySafe\KeySafe\KeySafe\bin\Release\Microsoft.Extensions.Configuration.Abstractions.xml
+D:\Documents\KeySafe\KeySafe\KeySafe\bin\Release\Microsoft.Extensions.Configuration.Binder.xml
+D:\Documents\KeySafe\KeySafe\KeySafe\bin\Release\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+D:\Documents\KeySafe\KeySafe\KeySafe\bin\Release\Microsoft.Extensions.FileProviders.Abstractions.xml
+D:\Documents\KeySafe\KeySafe\KeySafe\bin\Release\Microsoft.Extensions.Hosting.Abstractions.xml
+D:\Documents\KeySafe\KeySafe\KeySafe\bin\Release\Microsoft.Extensions.Identity.Core.xml
+D:\Documents\KeySafe\KeySafe\KeySafe\bin\Release\Microsoft.Extensions.Logging.xml
+D:\Documents\KeySafe\KeySafe\KeySafe\bin\Release\Microsoft.Extensions.Logging.Abstractions.xml
+D:\Documents\KeySafe\KeySafe\KeySafe\bin\Release\Microsoft.Extensions.ObjectPool.xml
+D:\Documents\KeySafe\KeySafe\KeySafe\bin\Release\Microsoft.Extensions.Options.xml
+D:\Documents\KeySafe\KeySafe\KeySafe\bin\Release\Microsoft.Extensions.Primitives.xml
+D:\Documents\KeySafe\KeySafe\KeySafe\bin\Release\Microsoft.Extensions.WebEncoders.xml
+D:\Documents\KeySafe\KeySafe\KeySafe\bin\Release\Microsoft.Net.Http.Headers.xml
+D:\Documents\KeySafe\KeySafe\KeySafe\bin\Release\System.Buffers.xml
+D:\Documents\KeySafe\KeySafe\KeySafe\bin\Release\System.Memory.xml
+D:\Documents\KeySafe\KeySafe\KeySafe\bin\Release\System.Numerics.Vectors.xml
+D:\Documents\KeySafe\KeySafe\KeySafe\bin\Release\System.Runtime.CompilerServices.Unsafe.xml
+D:\Documents\KeySafe\KeySafe\KeySafe\bin\Release\System.Text.Encodings.Web.xml
+D:\Documents\KeySafe\KeySafe\KeySafe\obj\Release\KeySafe.csprojAssemblyReference.cache
+C:\Users\Wolfgang\Documents\KeySafe\Project - History\KeySafe\KeySafe\bin\Release\KeySafe.exe.config
+C:\Users\Wolfgang\Documents\KeySafe\Project - History\KeySafe\KeySafe\bin\Release\KeySafe.exe
+C:\Users\Wolfgang\Documents\KeySafe\Project - History\KeySafe\KeySafe\bin\Release\KeySafe.pdb
+C:\Users\Wolfgang\Documents\KeySafe\Project - History\KeySafe\KeySafe\bin\Release\de-DE\KeySafe.resources.dll
+C:\Users\Wolfgang\Documents\KeySafe\Project - History\KeySafe\KeySafe\bin\Release\en\KeySafe.resources.dll
+C:\Users\Wolfgang\Documents\KeySafe\Project - History\KeySafe\KeySafe\bin\Release\Bunifu_UI_v1.5.3.dll
+C:\Users\Wolfgang\Documents\KeySafe\Project - History\KeySafe\KeySafe\bin\Release\Matrixsoft.PwnedPasswords.dll
+C:\Users\Wolfgang\Documents\KeySafe\Project - History\KeySafe\KeySafe\bin\Release\Microsoft.AspNetCore.Authentication.Abstractions.dll
+C:\Users\Wolfgang\Documents\KeySafe\Project - History\KeySafe\KeySafe\bin\Release\Microsoft.AspNetCore.Authentication.Cookies.dll
+C:\Users\Wolfgang\Documents\KeySafe\Project - History\KeySafe\KeySafe\bin\Release\Microsoft.AspNetCore.Authentication.Core.dll
+C:\Users\Wolfgang\Documents\KeySafe\Project - History\KeySafe\KeySafe\bin\Release\Microsoft.AspNetCore.Authentication.dll
+C:\Users\Wolfgang\Documents\KeySafe\Project - History\KeySafe\KeySafe\bin\Release\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Users\Wolfgang\Documents\KeySafe\Project - History\KeySafe\KeySafe\bin\Release\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Users\Wolfgang\Documents\KeySafe\Project - History\KeySafe\KeySafe\bin\Release\Microsoft.AspNetCore.DataProtection.Abstractions.dll
+C:\Users\Wolfgang\Documents\KeySafe\Project - History\KeySafe\KeySafe\bin\Release\Microsoft.AspNetCore.DataProtection.dll
+C:\Users\Wolfgang\Documents\KeySafe\Project - History\KeySafe\KeySafe\bin\Release\Microsoft.AspNetCore.Hosting.Abstractions.dll
+C:\Users\Wolfgang\Documents\KeySafe\Project - History\KeySafe\KeySafe\bin\Release\Microsoft.AspNetCore.Hosting.Server.Abstractions.dll
+C:\Users\Wolfgang\Documents\KeySafe\Project - History\KeySafe\KeySafe\bin\Release\Microsoft.AspNetCore.Http.Abstractions.dll
+C:\Users\Wolfgang\Documents\KeySafe\Project - History\KeySafe\KeySafe\bin\Release\Microsoft.AspNetCore.Http.dll
+C:\Users\Wolfgang\Documents\KeySafe\Project - History\KeySafe\KeySafe\bin\Release\Microsoft.AspNetCore.Http.Extensions.dll
+C:\Users\Wolfgang\Documents\KeySafe\Project - History\KeySafe\KeySafe\bin\Release\Microsoft.AspNetCore.Http.Features.dll
+C:\Users\Wolfgang\Documents\KeySafe\Project - History\KeySafe\KeySafe\bin\Release\Microsoft.AspNetCore.Identity.dll
+C:\Users\Wolfgang\Documents\KeySafe\Project - History\KeySafe\KeySafe\bin\Release\Microsoft.AspNetCore.WebUtilities.dll
+C:\Users\Wolfgang\Documents\KeySafe\Project - History\KeySafe\KeySafe\bin\Release\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Wolfgang\Documents\KeySafe\Project - History\KeySafe\KeySafe\bin\Release\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\Wolfgang\Documents\KeySafe\Project - History\KeySafe\KeySafe\bin\Release\Microsoft.Extensions.Configuration.dll
+C:\Users\Wolfgang\Documents\KeySafe\Project - History\KeySafe\KeySafe\bin\Release\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Wolfgang\Documents\KeySafe\Project - History\KeySafe\KeySafe\bin\Release\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Users\Wolfgang\Documents\KeySafe\Project - History\KeySafe\KeySafe\bin\Release\Microsoft.Extensions.Hosting.Abstractions.dll
+C:\Users\Wolfgang\Documents\KeySafe\Project - History\KeySafe\KeySafe\bin\Release\Microsoft.Extensions.Identity.Core.dll
+C:\Users\Wolfgang\Documents\KeySafe\Project - History\KeySafe\KeySafe\bin\Release\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Wolfgang\Documents\KeySafe\Project - History\KeySafe\KeySafe\bin\Release\Microsoft.Extensions.Logging.dll
+C:\Users\Wolfgang\Documents\KeySafe\Project - History\KeySafe\KeySafe\bin\Release\Microsoft.Extensions.ObjectPool.dll
+C:\Users\Wolfgang\Documents\KeySafe\Project - History\KeySafe\KeySafe\bin\Release\Microsoft.Extensions.Options.dll
+C:\Users\Wolfgang\Documents\KeySafe\Project - History\KeySafe\KeySafe\bin\Release\Microsoft.Extensions.Primitives.dll
+C:\Users\Wolfgang\Documents\KeySafe\Project - History\KeySafe\KeySafe\bin\Release\Microsoft.Extensions.WebEncoders.dll
+C:\Users\Wolfgang\Documents\KeySafe\Project - History\KeySafe\KeySafe\bin\Release\Microsoft.Net.Http.Headers.dll
+C:\Users\Wolfgang\Documents\KeySafe\Project - History\KeySafe\KeySafe\bin\Release\Microsoft.Win32.Registry.dll
+C:\Users\Wolfgang\Documents\KeySafe\Project - History\KeySafe\KeySafe\bin\Release\System.Buffers.dll
+C:\Users\Wolfgang\Documents\KeySafe\Project - History\KeySafe\KeySafe\bin\Release\System.ComponentModel.Annotations.dll
+C:\Users\Wolfgang\Documents\KeySafe\Project - History\KeySafe\KeySafe\bin\Release\System.Memory.dll
+C:\Users\Wolfgang\Documents\KeySafe\Project - History\KeySafe\KeySafe\bin\Release\System.Numerics.Vectors.dll
+C:\Users\Wolfgang\Documents\KeySafe\Project - History\KeySafe\KeySafe\bin\Release\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Wolfgang\Documents\KeySafe\Project - History\KeySafe\KeySafe\bin\Release\System.Security.AccessControl.dll
+C:\Users\Wolfgang\Documents\KeySafe\Project - History\KeySafe\KeySafe\bin\Release\System.Security.Cryptography.Xml.dll
+C:\Users\Wolfgang\Documents\KeySafe\Project - History\KeySafe\KeySafe\bin\Release\System.Security.Permissions.dll
+C:\Users\Wolfgang\Documents\KeySafe\Project - History\KeySafe\KeySafe\bin\Release\System.Security.Principal.Windows.dll
+C:\Users\Wolfgang\Documents\KeySafe\Project - History\KeySafe\KeySafe\bin\Release\System.Text.Encodings.Web.dll
+C:\Users\Wolfgang\Documents\KeySafe\Project - History\KeySafe\KeySafe\bin\Release\Microsoft.AspNetCore.Authentication.xml
+C:\Users\Wolfgang\Documents\KeySafe\Project - History\KeySafe\KeySafe\bin\Release\Microsoft.AspNetCore.Authentication.Abstractions.xml
+C:\Users\Wolfgang\Documents\KeySafe\Project - History\KeySafe\KeySafe\bin\Release\Microsoft.AspNetCore.Authentication.Cookies.xml
+C:\Users\Wolfgang\Documents\KeySafe\Project - History\KeySafe\KeySafe\bin\Release\Microsoft.AspNetCore.Authentication.Core.xml
+C:\Users\Wolfgang\Documents\KeySafe\Project - History\KeySafe\KeySafe\bin\Release\Microsoft.AspNetCore.Cryptography.Internal.xml
+C:\Users\Wolfgang\Documents\KeySafe\Project - History\KeySafe\KeySafe\bin\Release\Microsoft.AspNetCore.Cryptography.KeyDerivation.xml
+C:\Users\Wolfgang\Documents\KeySafe\Project - History\KeySafe\KeySafe\bin\Release\Microsoft.AspNetCore.DataProtection.xml
+C:\Users\Wolfgang\Documents\KeySafe\Project - History\KeySafe\KeySafe\bin\Release\Microsoft.AspNetCore.DataProtection.Abstractions.xml
+C:\Users\Wolfgang\Documents\KeySafe\Project - History\KeySafe\KeySafe\bin\Release\Microsoft.AspNetCore.Hosting.Abstractions.xml
+C:\Users\Wolfgang\Documents\KeySafe\Project - History\KeySafe\KeySafe\bin\Release\Microsoft.AspNetCore.Hosting.Server.Abstractions.xml
+C:\Users\Wolfgang\Documents\KeySafe\Project - History\KeySafe\KeySafe\bin\Release\Microsoft.AspNetCore.Http.xml
+C:\Users\Wolfgang\Documents\KeySafe\Project - History\KeySafe\KeySafe\bin\Release\Microsoft.AspNetCore.Http.Abstractions.xml
+C:\Users\Wolfgang\Documents\KeySafe\Project - History\KeySafe\KeySafe\bin\Release\Microsoft.AspNetCore.Http.Extensions.xml
+C:\Users\Wolfgang\Documents\KeySafe\Project - History\KeySafe\KeySafe\bin\Release\Microsoft.AspNetCore.Http.Features.xml
+C:\Users\Wolfgang\Documents\KeySafe\Project - History\KeySafe\KeySafe\bin\Release\Microsoft.AspNetCore.Identity.xml
+C:\Users\Wolfgang\Documents\KeySafe\Project - History\KeySafe\KeySafe\bin\Release\Microsoft.AspNetCore.WebUtilities.xml
+C:\Users\Wolfgang\Documents\KeySafe\Project - History\KeySafe\KeySafe\bin\Release\Microsoft.Extensions.Configuration.xml
+C:\Users\Wolfgang\Documents\KeySafe\Project - History\KeySafe\KeySafe\bin\Release\Microsoft.Extensions.Configuration.Abstractions.xml
+C:\Users\Wolfgang\Documents\KeySafe\Project - History\KeySafe\KeySafe\bin\Release\Microsoft.Extensions.Configuration.Binder.xml
+C:\Users\Wolfgang\Documents\KeySafe\Project - History\KeySafe\KeySafe\bin\Release\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+C:\Users\Wolfgang\Documents\KeySafe\Project - History\KeySafe\KeySafe\bin\Release\Microsoft.Extensions.FileProviders.Abstractions.xml
+C:\Users\Wolfgang\Documents\KeySafe\Project - History\KeySafe\KeySafe\bin\Release\Microsoft.Extensions.Hosting.Abstractions.xml
+C:\Users\Wolfgang\Documents\KeySafe\Project - History\KeySafe\KeySafe\bin\Release\Microsoft.Extensions.Identity.Core.xml
+C:\Users\Wolfgang\Documents\KeySafe\Project - History\KeySafe\KeySafe\bin\Release\Microsoft.Extensions.Logging.xml
+C:\Users\Wolfgang\Documents\KeySafe\Project - History\KeySafe\KeySafe\bin\Release\Microsoft.Extensions.Logging.Abstractions.xml
+C:\Users\Wolfgang\Documents\KeySafe\Project - History\KeySafe\KeySafe\bin\Release\Microsoft.Extensions.ObjectPool.xml
+C:\Users\Wolfgang\Documents\KeySafe\Project - History\KeySafe\KeySafe\bin\Release\Microsoft.Extensions.Options.xml
+C:\Users\Wolfgang\Documents\KeySafe\Project - History\KeySafe\KeySafe\bin\Release\Microsoft.Extensions.Primitives.xml
+C:\Users\Wolfgang\Documents\KeySafe\Project - History\KeySafe\KeySafe\bin\Release\Microsoft.Extensions.WebEncoders.xml
+C:\Users\Wolfgang\Documents\KeySafe\Project - History\KeySafe\KeySafe\bin\Release\Microsoft.Net.Http.Headers.xml
+C:\Users\Wolfgang\Documents\KeySafe\Project - History\KeySafe\KeySafe\bin\Release\System.Buffers.xml
+C:\Users\Wolfgang\Documents\KeySafe\Project - History\KeySafe\KeySafe\bin\Release\System.Memory.xml
+C:\Users\Wolfgang\Documents\KeySafe\Project - History\KeySafe\KeySafe\bin\Release\System.Numerics.Vectors.xml
+C:\Users\Wolfgang\Documents\KeySafe\Project - History\KeySafe\KeySafe\bin\Release\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Wolfgang\Documents\KeySafe\Project - History\KeySafe\KeySafe\bin\Release\System.Text.Encodings.Web.xml
+C:\Users\Wolfgang\Documents\KeySafe\Project - History\KeySafe\KeySafe\obj\Release\KeySafe.ConnectUSB.resources
+C:\Users\Wolfgang\Documents\KeySafe\Project - History\KeySafe\KeySafe\obj\Release\KeySafe.SaveKey.resources
+C:\Users\Wolfgang\Documents\KeySafe\Project - History\KeySafe\KeySafe\obj\Release\KeySafe.PasswordItem.resources
+C:\Users\Wolfgang\Documents\KeySafe\Project - History\KeySafe\KeySafe\obj\Release\KeySafe.KeySafe.resources
+C:\Users\Wolfgang\Documents\KeySafe\Project - History\KeySafe\KeySafe\obj\Release\KeySafe.Masterkey.resources
+C:\Users\Wolfgang\Documents\KeySafe\Project - History\KeySafe\KeySafe\obj\Release\KeySafe.Properties.Resources.resources
+C:\Users\Wolfgang\Documents\KeySafe\Project - History\KeySafe\KeySafe\obj\Release\KeySafe.KeySafe.de-DE.resources
+C:\Users\Wolfgang\Documents\KeySafe\Project - History\KeySafe\KeySafe\obj\Release\KeySafe.KeySafe.en.resources
+C:\Users\Wolfgang\Documents\KeySafe\Project - History\KeySafe\KeySafe\obj\Release\KeySafe.csproj.GenerateResource.cache
+C:\Users\Wolfgang\Documents\KeySafe\Project - History\KeySafe\KeySafe\obj\Release\KeySafe.csproj.CoreCompileInputs.cache
+C:\Users\Wolfgang\Documents\KeySafe\Project - History\KeySafe\KeySafe\obj\Release\de-DE\KeySafe.resources.dll
+C:\Users\Wolfgang\Documents\KeySafe\Project - History\KeySafe\KeySafe\obj\Release\en\KeySafe.resources.dll
+C:\Users\Wolfgang\Documents\KeySafe\Project - History\KeySafe\KeySafe\obj\Release\KeySafe.csproj.CopyComplete
+C:\Users\Wolfgang\Documents\KeySafe\Project - History\KeySafe\KeySafe\obj\Release\KeySafe.exe
+C:\Users\Wolfgang\Documents\KeySafe\Project - History\KeySafe\KeySafe\obj\Release\KeySafe.pdb
+D:\Documents\KeySafeProjects\KeySafe kommentiert\KeySafe\KeySafe\bin\Release\KeySafe.exe.config
+D:\Documents\KeySafeProjects\KeySafe kommentiert\KeySafe\KeySafe\bin\Release\KeySafe.exe
+D:\Documents\KeySafeProjects\KeySafe kommentiert\KeySafe\KeySafe\bin\Release\KeySafe.pdb
+D:\Documents\KeySafeProjects\KeySafe kommentiert\KeySafe\KeySafe\bin\Release\de-DE\KeySafe.resources.dll
+D:\Documents\KeySafeProjects\KeySafe kommentiert\KeySafe\KeySafe\bin\Release\en\KeySafe.resources.dll
+D:\Documents\KeySafeProjects\KeySafe kommentiert\KeySafe\KeySafe\bin\Release\Bunifu_UI_v1.5.3.dll
+D:\Documents\KeySafeProjects\KeySafe kommentiert\KeySafe\KeySafe\bin\Release\Matrixsoft.PwnedPasswords.dll
+D:\Documents\KeySafeProjects\KeySafe kommentiert\KeySafe\KeySafe\bin\Release\Microsoft.AspNetCore.Authentication.Abstractions.dll
+D:\Documents\KeySafeProjects\KeySafe kommentiert\KeySafe\KeySafe\bin\Release\Microsoft.AspNetCore.Authentication.Cookies.dll
+D:\Documents\KeySafeProjects\KeySafe kommentiert\KeySafe\KeySafe\bin\Release\Microsoft.AspNetCore.Authentication.Core.dll
+D:\Documents\KeySafeProjects\KeySafe kommentiert\KeySafe\KeySafe\bin\Release\Microsoft.AspNetCore.Authentication.dll
+D:\Documents\KeySafeProjects\KeySafe kommentiert\KeySafe\KeySafe\bin\Release\Microsoft.AspNetCore.Cryptography.Internal.dll
+D:\Documents\KeySafeProjects\KeySafe kommentiert\KeySafe\KeySafe\bin\Release\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+D:\Documents\KeySafeProjects\KeySafe kommentiert\KeySafe\KeySafe\bin\Release\Microsoft.AspNetCore.DataProtection.Abstractions.dll
+D:\Documents\KeySafeProjects\KeySafe kommentiert\KeySafe\KeySafe\bin\Release\Microsoft.AspNetCore.DataProtection.dll
+D:\Documents\KeySafeProjects\KeySafe kommentiert\KeySafe\KeySafe\bin\Release\Microsoft.AspNetCore.Hosting.Abstractions.dll
+D:\Documents\KeySafeProjects\KeySafe kommentiert\KeySafe\KeySafe\bin\Release\Microsoft.AspNetCore.Hosting.Server.Abstractions.dll
+D:\Documents\KeySafeProjects\KeySafe kommentiert\KeySafe\KeySafe\bin\Release\Microsoft.AspNetCore.Http.Abstractions.dll
+D:\Documents\KeySafeProjects\KeySafe kommentiert\KeySafe\KeySafe\bin\Release\Microsoft.AspNetCore.Http.dll
+D:\Documents\KeySafeProjects\KeySafe kommentiert\KeySafe\KeySafe\bin\Release\Microsoft.AspNetCore.Http.Extensions.dll
+D:\Documents\KeySafeProjects\KeySafe kommentiert\KeySafe\KeySafe\bin\Release\Microsoft.AspNetCore.Http.Features.dll
+D:\Documents\KeySafeProjects\KeySafe kommentiert\KeySafe\KeySafe\bin\Release\Microsoft.AspNetCore.Identity.dll
+D:\Documents\KeySafeProjects\KeySafe kommentiert\KeySafe\KeySafe\bin\Release\Microsoft.AspNetCore.WebUtilities.dll
+D:\Documents\KeySafeProjects\KeySafe kommentiert\KeySafe\KeySafe\bin\Release\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\Documents\KeySafeProjects\KeySafe kommentiert\KeySafe\KeySafe\bin\Release\Microsoft.Extensions.Configuration.Binder.dll
+D:\Documents\KeySafeProjects\KeySafe kommentiert\KeySafe\KeySafe\bin\Release\Microsoft.Extensions.Configuration.dll
+D:\Documents\KeySafeProjects\KeySafe kommentiert\KeySafe\KeySafe\bin\Release\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\Documents\KeySafeProjects\KeySafe kommentiert\KeySafe\KeySafe\bin\Release\Microsoft.Extensions.FileProviders.Abstractions.dll
+D:\Documents\KeySafeProjects\KeySafe kommentiert\KeySafe\KeySafe\bin\Release\Microsoft.Extensions.Hosting.Abstractions.dll
+D:\Documents\KeySafeProjects\KeySafe kommentiert\KeySafe\KeySafe\bin\Release\Microsoft.Extensions.Identity.Core.dll
+D:\Documents\KeySafeProjects\KeySafe kommentiert\KeySafe\KeySafe\bin\Release\Microsoft.Extensions.Logging.Abstractions.dll
+D:\Documents\KeySafeProjects\KeySafe kommentiert\KeySafe\KeySafe\bin\Release\Microsoft.Extensions.Logging.dll
+D:\Documents\KeySafeProjects\KeySafe kommentiert\KeySafe\KeySafe\bin\Release\Microsoft.Extensions.ObjectPool.dll
+D:\Documents\KeySafeProjects\KeySafe kommentiert\KeySafe\KeySafe\bin\Release\Microsoft.Extensions.Options.dll
+D:\Documents\KeySafeProjects\KeySafe kommentiert\KeySafe\KeySafe\bin\Release\Microsoft.Extensions.Primitives.dll
+D:\Documents\KeySafeProjects\KeySafe kommentiert\KeySafe\KeySafe\bin\Release\Microsoft.Extensions.WebEncoders.dll
+D:\Documents\KeySafeProjects\KeySafe kommentiert\KeySafe\KeySafe\bin\Release\Microsoft.Net.Http.Headers.dll
+D:\Documents\KeySafeProjects\KeySafe kommentiert\KeySafe\KeySafe\bin\Release\Microsoft.Win32.Registry.dll
+D:\Documents\KeySafeProjects\KeySafe kommentiert\KeySafe\KeySafe\bin\Release\Newtonsoft.Json.dll
+D:\Documents\KeySafeProjects\KeySafe kommentiert\KeySafe\KeySafe\bin\Release\System.Buffers.dll
+D:\Documents\KeySafeProjects\KeySafe kommentiert\KeySafe\KeySafe\bin\Release\System.ComponentModel.Annotations.dll
+D:\Documents\KeySafeProjects\KeySafe kommentiert\KeySafe\KeySafe\bin\Release\System.Memory.dll
+D:\Documents\KeySafeProjects\KeySafe kommentiert\KeySafe\KeySafe\bin\Release\System.Numerics.Vectors.dll
+D:\Documents\KeySafeProjects\KeySafe kommentiert\KeySafe\KeySafe\bin\Release\System.Runtime.CompilerServices.Unsafe.dll
+D:\Documents\KeySafeProjects\KeySafe kommentiert\KeySafe\KeySafe\bin\Release\System.Security.AccessControl.dll
+D:\Documents\KeySafeProjects\KeySafe kommentiert\KeySafe\KeySafe\bin\Release\System.Security.Cryptography.Xml.dll
+D:\Documents\KeySafeProjects\KeySafe kommentiert\KeySafe\KeySafe\bin\Release\System.Security.Permissions.dll
+D:\Documents\KeySafeProjects\KeySafe kommentiert\KeySafe\KeySafe\bin\Release\System.Security.Principal.Windows.dll
+D:\Documents\KeySafeProjects\KeySafe kommentiert\KeySafe\KeySafe\bin\Release\System.Text.Encodings.Web.dll
+D:\Documents\KeySafeProjects\KeySafe kommentiert\KeySafe\KeySafe\bin\Release\Microsoft.AspNetCore.Authentication.xml
+D:\Documents\KeySafeProjects\KeySafe kommentiert\KeySafe\KeySafe\bin\Release\Microsoft.AspNetCore.Authentication.Abstractions.xml
+D:\Documents\KeySafeProjects\KeySafe kommentiert\KeySafe\KeySafe\bin\Release\Microsoft.AspNetCore.Authentication.Cookies.xml
+D:\Documents\KeySafeProjects\KeySafe kommentiert\KeySafe\KeySafe\bin\Release\Microsoft.AspNetCore.Authentication.Core.xml
+D:\Documents\KeySafeProjects\KeySafe kommentiert\KeySafe\KeySafe\bin\Release\Microsoft.AspNetCore.Cryptography.Internal.xml
+D:\Documents\KeySafeProjects\KeySafe kommentiert\KeySafe\KeySafe\bin\Release\Microsoft.AspNetCore.Cryptography.KeyDerivation.xml
+D:\Documents\KeySafeProjects\KeySafe kommentiert\KeySafe\KeySafe\bin\Release\Microsoft.AspNetCore.DataProtection.xml
+D:\Documents\KeySafeProjects\KeySafe kommentiert\KeySafe\KeySafe\bin\Release\Microsoft.AspNetCore.DataProtection.Abstractions.xml
+D:\Documents\KeySafeProjects\KeySafe kommentiert\KeySafe\KeySafe\bin\Release\Microsoft.AspNetCore.Hosting.Abstractions.xml
+D:\Documents\KeySafeProjects\KeySafe kommentiert\KeySafe\KeySafe\bin\Release\Microsoft.AspNetCore.Hosting.Server.Abstractions.xml
+D:\Documents\KeySafeProjects\KeySafe kommentiert\KeySafe\KeySafe\bin\Release\Microsoft.AspNetCore.Http.xml
+D:\Documents\KeySafeProjects\KeySafe kommentiert\KeySafe\KeySafe\bin\Release\Microsoft.AspNetCore.Http.Abstractions.xml
+D:\Documents\KeySafeProjects\KeySafe kommentiert\KeySafe\KeySafe\bin\Release\Microsoft.AspNetCore.Http.Extensions.xml
+D:\Documents\KeySafeProjects\KeySafe kommentiert\KeySafe\KeySafe\bin\Release\Microsoft.AspNetCore.Http.Features.xml
+D:\Documents\KeySafeProjects\KeySafe kommentiert\KeySafe\KeySafe\bin\Release\Microsoft.AspNetCore.Identity.xml
+D:\Documents\KeySafeProjects\KeySafe kommentiert\KeySafe\KeySafe\bin\Release\Microsoft.AspNetCore.WebUtilities.xml
+D:\Documents\KeySafeProjects\KeySafe kommentiert\KeySafe\KeySafe\bin\Release\Microsoft.Extensions.Configuration.xml
+D:\Documents\KeySafeProjects\KeySafe kommentiert\KeySafe\KeySafe\bin\Release\Microsoft.Extensions.Configuration.Abstractions.xml
+D:\Documents\KeySafeProjects\KeySafe kommentiert\KeySafe\KeySafe\bin\Release\Microsoft.Extensions.Configuration.Binder.xml
+D:\Documents\KeySafeProjects\KeySafe kommentiert\KeySafe\KeySafe\bin\Release\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+D:\Documents\KeySafeProjects\KeySafe kommentiert\KeySafe\KeySafe\bin\Release\Microsoft.Extensions.FileProviders.Abstractions.xml
+D:\Documents\KeySafeProjects\KeySafe kommentiert\KeySafe\KeySafe\bin\Release\Microsoft.Extensions.Hosting.Abstractions.xml
+D:\Documents\KeySafeProjects\KeySafe kommentiert\KeySafe\KeySafe\bin\Release\Microsoft.Extensions.Identity.Core.xml
+D:\Documents\KeySafeProjects\KeySafe kommentiert\KeySafe\KeySafe\bin\Release\Microsoft.Extensions.Logging.xml
+D:\Documents\KeySafeProjects\KeySafe kommentiert\KeySafe\KeySafe\bin\Release\Microsoft.Extensions.Logging.Abstractions.xml
+D:\Documents\KeySafeProjects\KeySafe kommentiert\KeySafe\KeySafe\bin\Release\Microsoft.Extensions.ObjectPool.xml
+D:\Documents\KeySafeProjects\KeySafe kommentiert\KeySafe\KeySafe\bin\Release\Microsoft.Extensions.Options.xml
+D:\Documents\KeySafeProjects\KeySafe kommentiert\KeySafe\KeySafe\bin\Release\Microsoft.Extensions.Primitives.xml
+D:\Documents\KeySafeProjects\KeySafe kommentiert\KeySafe\KeySafe\bin\Release\Microsoft.Extensions.WebEncoders.xml
+D:\Documents\KeySafeProjects\KeySafe kommentiert\KeySafe\KeySafe\bin\Release\Microsoft.Net.Http.Headers.xml
+D:\Documents\KeySafeProjects\KeySafe kommentiert\KeySafe\KeySafe\bin\Release\System.Buffers.xml
+D:\Documents\KeySafeProjects\KeySafe kommentiert\KeySafe\KeySafe\bin\Release\System.Memory.xml
+D:\Documents\KeySafeProjects\KeySafe kommentiert\KeySafe\KeySafe\bin\Release\System.Numerics.Vectors.xml
+D:\Documents\KeySafeProjects\KeySafe kommentiert\KeySafe\KeySafe\bin\Release\System.Runtime.CompilerServices.Unsafe.xml
+D:\Documents\KeySafeProjects\KeySafe kommentiert\KeySafe\KeySafe\bin\Release\System.Text.Encodings.Web.xml
+D:\Documents\KeySafeProjects\KeySafe kommentiert\KeySafe\KeySafe\obj\Release\KeySafe.ConnectUSB.resources
+D:\Documents\KeySafeProjects\KeySafe kommentiert\KeySafe\KeySafe\obj\Release\KeySafe.Login.resources
+D:\Documents\KeySafeProjects\KeySafe kommentiert\KeySafe\KeySafe\obj\Release\KeySafe.OfflineOnline.resources
+D:\Documents\KeySafeProjects\KeySafe kommentiert\KeySafe\KeySafe\obj\Release\KeySafe.Register.resources
+D:\Documents\KeySafeProjects\KeySafe kommentiert\KeySafe\KeySafe\obj\Release\KeySafe.SaveKey.resources
+D:\Documents\KeySafeProjects\KeySafe kommentiert\KeySafe\KeySafe\obj\Release\KeySafe.PasswordItem.resources
+D:\Documents\KeySafeProjects\KeySafe kommentiert\KeySafe\KeySafe\obj\Release\KeySafe.KeySafe.resources
+D:\Documents\KeySafeProjects\KeySafe kommentiert\KeySafe\KeySafe\obj\Release\KeySafe.Masterkey.resources
+D:\Documents\KeySafeProjects\KeySafe kommentiert\KeySafe\KeySafe\obj\Release\KeySafe.Properties.Resources.resources
+D:\Documents\KeySafeProjects\KeySafe kommentiert\KeySafe\KeySafe\obj\Release\KeySafe.KeySafe.de-DE.resources
+D:\Documents\KeySafeProjects\KeySafe kommentiert\KeySafe\KeySafe\obj\Release\KeySafe.KeySafe.en.resources
+D:\Documents\KeySafeProjects\KeySafe kommentiert\KeySafe\KeySafe\obj\Release\KeySafe.csproj.GenerateResource.cache
+D:\Documents\KeySafeProjects\KeySafe kommentiert\KeySafe\KeySafe\obj\Release\KeySafe.csproj.CoreCompileInputs.cache
+D:\Documents\KeySafeProjects\KeySafe kommentiert\KeySafe\KeySafe\obj\Release\de-DE\KeySafe.resources.dll
+D:\Documents\KeySafeProjects\KeySafe kommentiert\KeySafe\KeySafe\obj\Release\en\KeySafe.resources.dll
+D:\Documents\KeySafeProjects\KeySafe kommentiert\KeySafe\KeySafe\obj\Release\KeySafe.csproj.CopyComplete
+D:\Documents\KeySafeProjects\KeySafe kommentiert\KeySafe\KeySafe\obj\Release\KeySafe.exe
+D:\Documents\KeySafeProjects\KeySafe kommentiert\KeySafe\KeySafe\obj\Release\KeySafe.pdb
+D:\Documents\KeySafeProjects\KeySafe kommentiert\KeySafe\KeySafe\bin\Release\BouncyCastle.Crypto.dll
+D:\Documents\KeySafeProjects\KeySafe kommentiert\KeySafe\KeySafe\bin\Release\Google.Protobuf.dll
+D:\Documents\KeySafeProjects\KeySafe kommentiert\KeySafe\KeySafe\bin\Release\K4os.Compression.LZ4.dll
+D:\Documents\KeySafeProjects\KeySafe kommentiert\KeySafe\KeySafe\bin\Release\K4os.Compression.LZ4.Streams.dll
+D:\Documents\KeySafeProjects\KeySafe kommentiert\KeySafe\KeySafe\bin\Release\K4os.Hash.xxHash.dll
+D:\Documents\KeySafeProjects\KeySafe kommentiert\KeySafe\KeySafe\bin\Release\MySql.Data.dll
+D:\Documents\KeySafeProjects\KeySafe kommentiert\KeySafe\KeySafe\bin\Release\MySqlConnector.dll
+D:\Documents\KeySafeProjects\KeySafe kommentiert\KeySafe\KeySafe\bin\Release\Renci.SshNet.dll
+D:\Documents\KeySafeProjects\KeySafe kommentiert\KeySafe\KeySafe\bin\Release\System.Threading.Tasks.Extensions.dll
+D:\Documents\KeySafeProjects\KeySafe kommentiert\KeySafe\KeySafe\bin\Release\Ubiety.Dns.Core.dll
+D:\Documents\KeySafeProjects\KeySafe kommentiert\KeySafe\KeySafe\bin\Release\Zstandard.Net.dll
+D:\Documents\KeySafeProjects\KeySafe kommentiert\KeySafe\KeySafe\bin\Release\Google.Protobuf.pdb
+D:\Documents\KeySafeProjects\KeySafe kommentiert\KeySafe\KeySafe\bin\Release\Google.Protobuf.xml
+D:\Documents\KeySafeProjects\KeySafe kommentiert\KeySafe\KeySafe\bin\Release\K4os.Compression.LZ4.xml
+D:\Documents\KeySafeProjects\KeySafe kommentiert\KeySafe\KeySafe\bin\Release\K4os.Compression.LZ4.Streams.xml
+D:\Documents\KeySafeProjects\KeySafe kommentiert\KeySafe\KeySafe\bin\Release\K4os.Hash.xxHash.xml
+D:\Documents\KeySafeProjects\KeySafe kommentiert\KeySafe\KeySafe\bin\Release\MySql.Data.xml
+D:\Documents\KeySafeProjects\KeySafe kommentiert\KeySafe\KeySafe\bin\Release\MySqlConnector.xml
+D:\Documents\KeySafeProjects\KeySafe kommentiert\KeySafe\KeySafe\bin\Release\Renci.SshNet.xml
+D:\Documents\KeySafeProjects\KeySafe kommentiert\KeySafe\KeySafe\bin\Release\System.Threading.Tasks.Extensions.xml
+D:\Documents\KeySafeProjects\KeySafe kommentiert\KeySafe\KeySafe\obj\Release\KeySafe.ChangeLoginData.resources
+C:\Users\Wolfgang\Documents\KeySafe\Project - History\KeySafe\KeySafe\bin\Release\BouncyCastle.Crypto.dll
+C:\Users\Wolfgang\Documents\KeySafe\Project - History\KeySafe\KeySafe\bin\Release\Google.Protobuf.dll
+C:\Users\Wolfgang\Documents\KeySafe\Project - History\KeySafe\KeySafe\bin\Release\K4os.Compression.LZ4.dll
+C:\Users\Wolfgang\Documents\KeySafe\Project - History\KeySafe\KeySafe\bin\Release\K4os.Compression.LZ4.Streams.dll
+C:\Users\Wolfgang\Documents\KeySafe\Project - History\KeySafe\KeySafe\bin\Release\K4os.Hash.xxHash.dll
+C:\Users\Wolfgang\Documents\KeySafe\Project - History\KeySafe\KeySafe\bin\Release\MySql.Data.dll
+C:\Users\Wolfgang\Documents\KeySafe\Project - History\KeySafe\KeySafe\bin\Release\MySqlConnector.dll
+C:\Users\Wolfgang\Documents\KeySafe\Project - History\KeySafe\KeySafe\bin\Release\Renci.SshNet.dll
+C:\Users\Wolfgang\Documents\KeySafe\Project - History\KeySafe\KeySafe\bin\Release\System.Threading.Tasks.Extensions.dll
+C:\Users\Wolfgang\Documents\KeySafe\Project - History\KeySafe\KeySafe\bin\Release\Ubiety.Dns.Core.dll
+C:\Users\Wolfgang\Documents\KeySafe\Project - History\KeySafe\KeySafe\bin\Release\Zstandard.Net.dll
+C:\Users\Wolfgang\Documents\KeySafe\Project - History\KeySafe\KeySafe\bin\Release\Google.Protobuf.pdb
+C:\Users\Wolfgang\Documents\KeySafe\Project - History\KeySafe\KeySafe\bin\Release\Google.Protobuf.xml
+C:\Users\Wolfgang\Documents\KeySafe\Project - History\KeySafe\KeySafe\bin\Release\K4os.Compression.LZ4.xml
+C:\Users\Wolfgang\Documents\KeySafe\Project - History\KeySafe\KeySafe\bin\Release\K4os.Compression.LZ4.Streams.xml
+C:\Users\Wolfgang\Documents\KeySafe\Project - History\KeySafe\KeySafe\bin\Release\K4os.Hash.xxHash.xml
+C:\Users\Wolfgang\Documents\KeySafe\Project - History\KeySafe\KeySafe\bin\Release\MySql.Data.xml
+C:\Users\Wolfgang\Documents\KeySafe\Project - History\KeySafe\KeySafe\bin\Release\MySqlConnector.xml
+C:\Users\Wolfgang\Documents\KeySafe\Project - History\KeySafe\KeySafe\bin\Release\Renci.SshNet.xml
+C:\Users\Wolfgang\Documents\KeySafe\Project - History\KeySafe\KeySafe\bin\Release\System.Threading.Tasks.Extensions.xml
+C:\Users\Wolfgang\Documents\KeySafe\Project - History\KeySafe\KeySafe\obj\Release\KeySafe.ChangeLoginData.resources
+C:\Users\Wolfgang\Documents\KeySafe\Project - History\KeySafe\KeySafe\obj\Release\KeySafe.Login.resources
+C:\Users\Wolfgang\Documents\KeySafe\Project - History\KeySafe\KeySafe\obj\Release\KeySafe.OfflineOnline.resources
+C:\Users\Wolfgang\Documents\KeySafe\Project - History\KeySafe\KeySafe\obj\Release\KeySafe.Register.resources
+D:\Documents\KeySafeProjects\KeySafe kommentiert\KeySafe\KeySafe\obj\Release\KeySafe.csprojAssemblyReference.cache
